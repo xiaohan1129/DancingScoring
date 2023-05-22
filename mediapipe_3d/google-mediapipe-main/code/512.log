@@ -1,0 +1,283 @@
+
+[2023-05-14 20:10:42.372]# RECV ASCII>
+
+ acceleration:     3366    -906   16668  gyroscope:       759    -589     282   temperature:    27.53
+ The current AD value = 0x0807 
+
+ The current AD value = 1.649194 V 
+
+ Signal = 514 
+
+ BPM=144
+
+ IBI = 532 
+
+
+[2023-05-14 20:10:42.803]# RECV ASCII>
+
+ 
+
+[2023-05-14 20:10:42.866]# RECV ASCII>
+acceleration:     4232   -2984   18406  gyroscope:      -285    1052     808   temperature:    27.54
+ The current AD value = 0x084C 
+
+ The current AD value = 1.699146 V 
+
+ Signal = 531 
+
+ BPM=144
+
+ IBI = 532 
+
+
+[2023-05-14 20:10:43.360]# RECV ASCII>
+
+ acceleration:     4970     384   18068  gyroscope:       173    -373     -58   temperature:    27.55
+ The current AD value = 0x0817 
+
+ The current AD value = 1.661279 V 
+
+ Signal = 516 
+
+ BPM=144
+
+ IBI = 532 
+
+
+[2023-05-14 20:10:43.898]# RECV ASCII>
+
+ acceleration:     3852    4414    9944  gyroscope:        26     469   -2078   temperature:    27.55
+ The current AD value = 0x0853 
+
+ The current AD value = 1.719287 V 
+
+ Signal = 530 
+
+ BPM=144
+
+ IBI = 532 
+
+
+[2023-05-14 20:10:44.364]# RECV ASCII>
+
+ acceleration:    -3050     986   15442  gyroscope:     -1607     627    -391   temperature:    27.57
+ The current AD value = 0x0846 
+
+ The current AD value = 1.702368 V 
+
+ Signal = 526 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:44.870]# RECV ASCII>
+
+ acceleration:   -12122   -8146    6736  gyroscope:     -2233    1883    2198   temperature:    27.59
+ The current AD value = 0x07C0 
+
+ The current AD value = 1.579907 V 
+
+ Signal = 496 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:45.345]# RECV ASCII>
+
+ acceleration:   -15466   -2870    -500  gyroscope:        36     -21    -238   temperature:    27.59
+ The current AD value = 0x
+
+[2023-05-14 20:10:45.401]# RECV ASCII>
+07FA 
+
+ The current AD value = 1.637109 V 
+
+ Signal = 512 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:45.872]# RECV ASCII>
+
+ acceleration:   -14894   -4932   -2018  gyroscope:       172     254    -167   temperature:    27.61
+ The current AD value = 0x0812 
+
+ The current AD value = 1.646777 V 
+
+ Signal = 522 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:46.375]# RECV ASCII>
+
+ acceleration:   -15332   -6404   -1812  gyroscope:       318    -122     -24   temperature:    27.61
+ The current AD value = 0x07FF 
+
+ The current AD value = 1.654028 V 
+
+ Signal = 513 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:46.875]# RECV ASCII>
+
+ acceleration:   -14968   -5630      76  gyroscope:      -149     -45     -55   temperature:    27.62
+ The current AD value = 0x081F 
+
+ The current AD value = 1.677393 V 
+
+ Signal = 515 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:47.344]# RECV ASCII>
+
+ acceleration:   -15050   -6054    -410  gyroscope:       -62     -83     -35   temperature:    27.63
+ The current AD value = 0x07FB 
+
+ The current AD value = 1.645166 V 
+
+ Signal = 511 
+
+[2023-05-14 20:10:47.410]# RECV ASCII>
+
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:47.865]# RECV ASCII>
+
+ acceleration:   -14496   -5522    -470  gyroscope:       -90    -136       1   temperature:    27.63
+ The current AD value = 0x0820 
+
+ The current AD value = 1.671753 V 
+
+ Signal = 516 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:48.309]# RECV ASCII>
+
+
+
+[2023-05-14 20:10:48.371]# RECV ASCII>
+ acceleration:   -15074   -5558    1272  gyroscope:       -34     -16      10   temperature:    27.66
+ The current AD value = 0x07FF 
+
+ The current AD value = 1.642749 V 
+
+ Signal = 511 
+
+ BPM=144
+
+ IBI = 320 
+
+
+[2023-05-14 20:10:48.864]# RECV ASCII>
+
+ acceleration:     3544    2808    9394  gyroscope:      2252   -1716   -1692   temperature:    27.67
+ The current AD value = 0x07D4 
+
+ The current AD value = 1.577490 V 
+
+ Signal = 510 
+
+ BPM=33
+
+ IBI = 1792 
+
+
+[2023-05-14 20:10:49.362]# RECV ASCII>
+
+ acceleration:     6442    5484   16908  gyroscope:      -466    1763    -885   temperature:    27.67
+ The current AD value = 0x0852 
+
+ The current AD value = 1.703174 V 
+
+ Signal = 529 
+
+ BPM=33
+
+ IBI = 1792 
+
+
+[2023-05-14 20:10:49.878]# RECV ASCII>
+
+ acceleration:     5868    2388   15476  gyroscope:      -111     -26     -51   temperature:    27.67
+ The current AD value = 0x0848 
+
+ The current AD value = 1.709619 V 
+
+ Signal = 526 
+
+ BPM=33
+
+ IBI = 1792 
+
+
+[2023-05-14 20:10:50.368]# RECV ASCII>
+
+ acceleration:     5272    2360   15630  gyroscope:       -37      -6       3   temperature:    27.69
+ The current AD value = 0x084B 
+
+ The current AD value = 1.691895 V 
+
+ Signal = 530 
+
+ BPM=33
+
+ IBI = 1792 
+
+
+[2023-05-14 20:10:50.861]# RECV ASCII>
+
+ acceleration:     5608    2430   16082  gyroscope:       -61      29     -44   temperature:    27.69
+ The current AD value = 0x0825 
+
+ The current AD value = 1.685449 V 
+
+ Signal = 520 
+
+[2023-05-14 20:10:50.908]# RECV ASCII>
+
+
+ BPM=33
+
+ IBI = 1792 
+
+
+[2023-05-14 20:10:51.383]# RECV ASCII>
+
+ acceleration:     5904    2448   15704  gyroscope:       -36      24     -36   temperature:    27.69
+ The current AD value = 0x0842 
+
+ The current AD value = 1.700757 V 
+
+ Signal = 531 
+
+ BPM=34
+
+ IBI = 1076 
+
+
+[2023-05-14 20:10:52.030]# Cannot open COM port
